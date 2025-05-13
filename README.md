@@ -52,3 +52,4 @@ Opción 9 - Top 5 episodios por serie </br>
 El usuario selecciona una serie guardada y se muestran los 5 episodios de la serie con evaluación más alta ordenados de mayor a menor: </br>
 ![image](https://github.com/user-attachments/assets/68baaca0-5272-4ea4-9c6a-c6d2d4e84659)
 
+La opción 0 termina la ejecución del programa.
